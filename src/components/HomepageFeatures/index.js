@@ -5,7 +5,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'Descubre lo que te apasiona',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    Svg: require('@site/static/img/2196154.svg').default,
     description: (
       <>
         conoce más sobre lo que hacemos y descubre que es lo que te apasiona
@@ -14,7 +14,7 @@ const FeatureList = [
   },
   {
     title: 'Aprende facil',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    Svg: require('@site/static/img/aprende.svg').default,
     description: (
       <>
         Esta página tambien te brindara material que puede ayudarte a aprender de forma sencilla
@@ -23,7 +23,7 @@ const FeatureList = [
   },
   {
     title: 'Unete a nosotros',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    Svg: require('@site/static/img/unete_1.svg').default,
     description: (
       <>
         Se parte de nuestra comunidad 
